@@ -1,0 +1,21 @@
+{
+  "name": "shoppingcartredux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhruvanshiPatelSEC-F/ShoppingCartRedux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DhruvanshiPatelSEC-F/ShoppingCartRedux/issues"
+  },
+  "homepage": "https://github.com/DhruvanshiPatelSEC-F/ShoppingCartRedux#readme"
+}
